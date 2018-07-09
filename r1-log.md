@@ -9,7 +9,7 @@ Started my first ever FreeCodeCamp project; Responsive Web Design's first projec
 - First hello world beyond localhost, thanks to netlify.com
 - Learned Git & Git Bash basics and beyond.
 
-   [Tribute Page](jim-rohn.netlify.com)
+   [Tribute Page](https://jim-rohn.netlify.com/)
 
 ### R1D2 7/7/18
 Continue tribute-page
