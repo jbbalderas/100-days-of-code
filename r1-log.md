@@ -25,3 +25,9 @@ Continue tribute-page
 - Text and/or img centering; margin collapsing on CSS; proper img or quote citation; responsive image; line-height
 - First time to edit a GitHub markdown
 
+### R1D4 7/10/18
+Continue tribute-page
+- Learned different CSS Selectors
+- Learned and tried overview of display:Flex
+- Coded Flex based layout for just one row, the whole day: 1 div with lots of blockquotes, 1 div with a responsive image. :O
+- Learned Susy can be the greatest fallback for Flex and Grid layouts, if not inline-block, if not table, if not float.
