@@ -86,5 +86,6 @@ https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-gri
   ```
 
 **Thoughts** I really though I could finish this project today, I'm now delayed big time, this is just my first ever FCC project. But, I also realized that the next four Responsive Web Design will not really challenge with respect to layout-ing, except the portfolio. What I mean is that, I'm grateful that I'm learning this now, I'm learning alot. I also realized how useful the workflow or shall I say studyflow of "solve problem" -> "can't solve on own" -> "watch tutorials" VS. the typical Watch all tutorials then solve problems/build projects. Wuhooo!
+![r1d4 screenshot](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/r1d4%20screenshot.png "Look at 'em CSS. Tried so many things, haha")
 
 **Link(s) to work** [Tribute Page deployed online](https://jim-rohn.netlify.com/)
