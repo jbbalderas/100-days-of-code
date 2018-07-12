@@ -90,7 +90,7 @@ https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-gri
 
 **Link(s) to work** [Tribute Page deployed online](https://jim-rohn.netlify.com/)
 
-### Day 2: July 7, Saturday
+### Day 5: July 7, Saturday
 
 **Today's Progress**:
 
@@ -280,10 +280,99 @@ Realized that I need to learn Flex then Grid, but also consider the fallbacks us
 		2. Make it fancy
 		3. Make sure the fancy doesn't break the accessibility
 			mor10.com/wceu2017
-```			
+  ```			
 
 **Thoughts** Yesterday, I was so eager to learn or master at least one fallback for flex and grid. But after studying today, I realized that Grid is the future, as well as Grid is the now! Fallbacks via feature queries are available and there are resources available online for this. I'll still go through all the available resources (tutorials and exercises) I have now, and it's just encouraging to know the CSS evolution or just 'the timeline' on why there's so many hacks or different ways available to layout, then ultimately there's CSS Grid as the ultimate destination (for now). However, I also learned that I need to get to JavaScript programming as early as possible and learn the basics of HTML CSS, for I can see that in the future, the laying out or positioning of websites can be done by AI by just giving them the design. Yeah I know, they can do this things, but the creativity and imagination is still on us, AI's can implement but the complexity of creativity to solve variety of problems (not just one) is still on us. Construction and designing of a building/house/shop can be automated in the future, but the furnitures inside and the functionalities as to why people are going inside are still being decided by us.
 
 **Link(s) to work** 
 1. [Shay Howes CSS Positioning Contents](https://learn.shayhowe.com/html-css/positioning-content/)
 2. [CSS Resiliency Video Series](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
+
+### Day 6: July 12, Saturday
+
+**Today's Progress**: 
+
+```
+11.20a Continue studying
+
+	15 reasons why a grid based aproach will improve your designs
+		1. Organized Content
+		2. Quicker job
+		3. Aligned typoraphy
+		4. Easier to Collab w/ 
+		5. Easier Balancing of design
+		6. MultiPage Layout Cohesivity
+		7. Visual Hierarchy can be enhanced
+		8. No Cluttered layouts due to margins and gutters
+		9. Math based pleasing designs. ie: rule of thirds
+		10. Extra Impact when breaking grid
+		11. Highly Flexible
+		12. Can help you go diagonal
+		13. Any medium of design
+		14. Can encourage white space
+		15. More digestible and readable for viewers
+
+		https://www.canva.com/learn/grid-design/
+1.40p CS 193c day 4
+	Positioning 	(good for advertisements)
+		absolute, fixed, relative
+		'relative' leaves a space while 'absolute' doesn't
+	
+		iFrames (can be used as an article inside webpage; A different/separate html file; not to be used these days. )
+	Responsive design
+		usually server side decision w/c stylesheet to give
+		printer? mobile? desktop?
+			<link rel="stylesheet" href="" media="print">
+	Media Queries
+		now it's what properties their device have
+			<link rel="stylesheet" href="" media="screen and (max-device-width: 480px)">
+			or <style>@media(min-width:480px){h1:18pt;}</style>
+					  @media screen and (orientation: portrait){#nav{display:none}}
+		Standards remnant from attempt to include JavaScript on CSS
+			calc 	for (+,-,*,/) always use space between them operators
+
+			Custom Properties 	(CSS Variables)
+				:root{ --myVariable: 50px; } 
+				to address example 	| margin: var(--myVariable);
+	55:11 to 1:32:00 	all about Forms
+	1:32:00 onwards
+	alternative to sprites = Image Map 		
+		(clicking to specific parts of an image will direct to another link/page | anchor tags via coordinates area on image)
+	character entities
+		&amp; for ampersand, since "&" means a break
+
+	FTP (way to upload your website files to your ISP/Server provider)
+		ex: secureCRT 		just like Filezilla or Putty
+
+	Don't use capital letters and space on filenames
+
+✓Stanford's CS193c -> colt's WDBC -> rob's TCWD2 -> Todd's HtCaW:aHTaCT -> ShayHowe positioning -> MDN CSS Layout -> FCC curriculum
+ 
+4.30p Decided that before continuing to WDBC, since I have skipped the assignment parts of the previous concepts taught, I'll finish them first because that's what I need, the exercises.
+
+4.55p Scanning my external HDD let me find a Sublime Text 3 screencasts from codeschool. :D cool 8min watch
+	ctrl K+B sidebar
+	ctrl L 					select all line of current selected
+	ctrl K 					remove line at a time
+	ctrl shift P + "re"		reindent lines :O
+	ctrl 	[ or ]	 		manual indent left or right
+
+	ctrl shift G 			Emmet wrap (for wrappers ex: div or anchor tags) 	cool
+	ctrl shift L 			breaks each line selection's into independent selection 		usually combined w/ Emmet Wrap
+
+WDBC
+	exercises: HTML recreate website , CSS Selector
+	em 			Relative to parent's font size 			double the size = 2.0em
+	100-800 	font-weight values 			light - heavy
+
+	exercise: CSS blog from scratch
+		Things I missed and learned:
+			border-left
+			REM 			not by parent element, but by Root
+			hr styles available online :D
+
+  ```
+
+**Thoughts** I Decided to power through all the necessary fundamentals or all the related topics or concepts that's available on all of my resources. So far my progress is somehow slow because I think I have wasted alot of time today, but still I commend myself today. Although, I also know that there's so much more left to study so better maximize the time alloted. Way back before on my internship, I also tried to study (I mean watch) all the tutorials but dreaded all the exercise or assignments provided. Now it's the opposite, I decided to power through all the assignments for better learning. Knowing bits of learning how to learn really help. Today I feel determined to continue. #deliberatePractice
+
+**Link(s) to work** Same as day 5
