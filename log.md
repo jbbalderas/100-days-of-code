@@ -373,6 +373,6 @@ WDBC
 
   ```
 
-**Thoughts** I Decided to power through all the necessary fundamentals or all the related topics or concepts that's available on all of my resources. So far my progress is somehow slow because I think I have wasted alot of time today, but still I commend myself today. Although, I also know that there's so much more left to study so better maximize the time alloted. Way back before on my internship, I also tried to study (I mean watch) all the tutorials but dreaded all the exercise or assignments provided. Now it's the opposite, I decided to power through all the assignments for better learning. Knowing bits of learning how to learn really help. Today I feel determined to continue. #deliberatePractice
+**Thoughts** I decided to power through all the necessary fundamentals or all the related topics or concepts that's available on all of my resources. So far my progress is somehow slow because I think I have wasted alot of time today (those extended breaks), but still I commend myself today. Although, I also know that there's so much more left to study, so better maximize the time alloted tomorrow. Way back before on my internship, I also tried to study (I mean watch) all the tutorials but dreaded all the exercises or assignments provided. Now it's the opposite, I decided to power through all the assignments for better learning. Knowing bits of learning how to learn really helps. Today I feel determined to continue. #deliberatePractice
 
 **Link(s) to work** Same as day 5
