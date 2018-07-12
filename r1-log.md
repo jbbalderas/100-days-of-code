@@ -38,3 +38,10 @@ Study Fundamentals: CSS Layouts
    1] Accessibility 2] Get Fancy 3] Get fancy w/o breaking accessibility
 - Learned from Marianne Suzanne, creator of Susy, the evolution of CSS Layout-ing that ultimately ends with 'start using Grid' now. From positioning, floats, sub-pixel rounding, inline-bock, display:Table, Flexbox, Open sourced CSS hacks, Grid built w/ percentages, RWD, Mobile First, Bootstrap, Susy, DIY Grids, CSS Grid.
 - Morten Rand-Hendriksen also had a great speech/talk regarding CSS Grid. Just shows how this changes everything and convince you for every reason for opposition you have. https://www.youtube.com/watch?v=7kVeCqQCxlk
+
+### R1D5 7/12/18
+Study Fundamentals
+- Learned that grid system has many benefits not just on the coding, but more on designing and also the users/viewers.
+- Watched Stanford's CS193c day 4: Positioning; iFrames; Responsive design; media queries; calc & css variables; image map; &amp; FTP
+- Learned Sublime Text 3 tips and tricks that I didn't know until today. Emmet Wrap w/ abrreviation is one.
+- Studied Colt's WDB: REM, border-left, hr styles. Exercises: HTML recreate website, CSS selector, CSS blog from scratch
