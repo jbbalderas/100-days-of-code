@@ -32,14 +32,14 @@ Continue tribute-page
 - Coded Flex based layout for just one row, the whole day: 1 div with lots of blockquotes, 1 div with a responsive image. :O
 - Learned Susy can be the greatest fallback for Flex and Grid layouts, if not inline-block, if not table, if not float.
 
-### R1D4 7/11/18
+### R1D5 7/11/18
 Study Fundamentals: CSS Layouts
 - Learned that Flex and Grid is a must learn for they are intended to be used side by side, but also consider fallbacks. 
    1] Accessibility 2] Get Fancy 3] Get fancy w/o breaking accessibility
 - Learned from Marianne Suzanne, creator of Susy, the evolution of CSS Layout-ing that ultimately ends with 'start using Grid' now. From positioning, floats, sub-pixel rounding, inline-bock, display:Table, Flexbox, Open sourced CSS hacks, Grid built w/ percentages, RWD, Mobile First, Bootstrap, Susy, DIY Grids, CSS Grid.
 - Morten Rand-Hendriksen also had a great speech/talk regarding CSS Grid. Just shows how this changes everything and convince you for every reason for opposition you have. https://www.youtube.com/watch?v=7kVeCqQCxlk
 
-### R1D5 7/12/18
+### R1D6 7/12/18
 Study Fundamentals
 - Learned that grid system has many benefits not just on the coding, but more on designing and also the users/viewers.
 - Watched Stanford's CS193c day 4: Positioning; iFrames; Responsive design; media queries; calc & css variables; image map; &amp; FTP
