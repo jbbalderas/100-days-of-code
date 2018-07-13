@@ -90,7 +90,7 @@ https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-gri
 
 **Link(s) to work** [Tribute Page deployed online](https://jim-rohn.netlify.com/)
 
-### Day 5: July 7, Saturday
+### Day 5: July 11, Wednesday
 
 **Today's Progress**:
 
@@ -280,7 +280,7 @@ Realized that I need to learn Flex then Grid, but also consider the fallbacks us
 		2. Make it fancy
 		3. Make sure the fancy doesn't break the accessibility
 			mor10.com/wceu2017
-  ```			
+  ```
 
 **Thoughts** Yesterday, I was so eager to learn or master at least one fallback for flex and grid. But after studying today, I realized that Grid is the future, as well as Grid is the now! Fallbacks via feature queries are available and there are resources available online for this. I'll still go through all the available resources (tutorials and exercises) I have now, and it's just encouraging to know the CSS evolution or just 'the timeline' on why there's so many hacks or different ways available to layout, then ultimately there's CSS Grid as the ultimate destination (for now). However, I also learned that I need to get to JavaScript programming as early as possible and learn the basics of HTML CSS, for I can see that in the future, the laying out or positioning of websites can be done by AI by just giving them the design. Yeah I know, they can do this things, but the creativity and imagination is still on us, AI's can implement but the complexity of creativity to solve variety of problems (not just one) is still on us. Construction and designing of a building/house/shop can be automated in the future, but the furnitures inside and the functionalities as to why people are going inside are still being decided by us.
 
@@ -288,7 +288,7 @@ Realized that I need to learn Flex then Grid, but also consider the fallbacks us
 1. [Shay Howes CSS Positioning Contents](https://learn.shayhowe.com/html-css/positioning-content/)
 2. [CSS Resiliency Video Series](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
 
-### Day 6: July 12, Saturday
+### Day 6: July 12, Thursday
 
 **Today's Progress**: 
 
@@ -376,3 +376,33 @@ WDBC
 **Thoughts** I decided to power through all the necessary fundamentals or all the related topics or concepts that's available on all of my resources. So far my progress is somehow slow because I think I have wasted alot of time today (those extended breaks), but still I commend myself today. Although, I also know that there's so much more left to study, so better maximize the time alloted tomorrow. Way back before on my internship, I also tried to study (I mean watch) all the tutorials but dreaded all the exercises or assignments provided. Now it's the opposite, I decided to power through all the assignments for better learning. Knowing bits of learning how to learn really helps. Today I feel determined to continue. #deliberatePractice
 
 **Link(s) to work** Same as day 5
+
+### Day 7: July 13, Friday
+
+**Today's Progress**: 
+
+```
+1.56p Study
+	Rob's TCWDC2
+		position: relative; + left/right: -50px; 	+ 	z-index:; 	+ 	opacity: 0-1;
+		position: absolute is just like 'in front of text' or 'behind text' on MS Word (out of the flow)
+
+		column-count; column-gap; column-rule-style; column-rule-width; column-rule-color;
+
+5.26p Todd's HtCaW:aHTaCT
+		main.css as convention
+		client-side: Node>django>ror 		|| server-side: go >>> PHP, ASP, CFM
+		css, js, img, pic 		folder structure convention
+
+		background-size: cover; 	+ bacground-repeat: no-repeat 	for imgs
+		Rendering engines
+
+		good document structure's why: maintainability, readability, accessibility, search engine rank
+		Document Object Model (DOM)
+
+	http://learnlayout.com/
+  ```
+
+**Thoughts** I'm ending this day in an excited state coming from a sleepy state at the start. Why? I started studying at 1:56 pm today after having an almost three hour basketball (shooting drills + 21 + horse + 11 + 1v1) in the morning while having an intermittent fast (my first meal's at 2:30pm). Ahaha. I know, but I powered through Rob's teachings, ate lunch then read "The Magic of Thinking Big" for 30 min, then got back to Rob's eventually finishin what I need. Then I jumped on Todd's and after watching my last video of which an overview of CSS layout (w/c is the main reason why I came back to tutorials to finish my tribute page), I got excited for tomorrow because of partly my why but mostly his teaching style. Todd always zoom out to the forest every after looking on each tree, I also like his motivation from time to time relating to craftsmanship and Web Dev as also an engineering discipline. #Funda
+
+**Link(s) to work** Same as day 5 + http://learnlayout.com/
