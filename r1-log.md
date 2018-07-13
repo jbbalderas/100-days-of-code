@@ -44,4 +44,9 @@ Study Fundamentals
 - Learned that grid system has many benefits not just on the coding, but more on designing and also the users/viewers.
 - Watched Stanford's CS193c day 4: Positioning; iFrames; Responsive design; media queries; calc & css variables; image map; &amp; FTP
 - Learned Sublime Text 3 tips and tricks that I didn't know until today. Emmet Wrap w/ abrreviation is one.
-- Studied Colt's WDB: REM, border-left, hr styles. Exercises: HTML recreate website, CSS selector, CSS blog from scratch
+- Studied Colt's WDB: REM, border-left, hr styles. Exercises: HTML recreate website, CSS selector, CSS blog from scratch.
+
+### R1D7 7/13/18
+Study Fundamentals
+- Finished studying relevant materials, on making my tribute page project by FCC RWD, in Rob's TCWDC2.
+- Halfway done studying relevant materials on Todd's HtCaW:aHTaCT
