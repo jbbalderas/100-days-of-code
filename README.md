@@ -4,7 +4,7 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [Fast Log - click here to see my progress](r1-log.md)
+* [Rapid Log - click here to see an overview my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
