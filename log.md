@@ -406,3 +406,62 @@ WDBC
 **Thoughts** I'm ending this day in an excited state coming from a sleepy state at the start. Why? I started studying at 1:56 pm today after having an almost three hour basketball (shooting drills + 21 + horse + 11 + 1v1) in the morning while having an intermittent fast (my first meal's at 2:30pm). Ahaha. I know, but I powered through Rob's teachings, ate lunch then read "The Magic of Thinking Big" for 30 min, then got back to Rob's eventually finishin what I need. Then I jumped on Todd's and after watching my last video for the day of which an overview of CSS layout (w/c is the main reason why I came back to tutorials to finish my tribute page), I got excited for tomorrow because of partly my why but mostly his teaching style. Todd always zoom out to the forest every after looking on each tree, I also like his motivation from time to time relating to craftsmanship and Web Dev as also an engineering discipline. #Funda
 
 **Link(s) to work** Same as day 5 + http://learnlayout.com/
+
+### Day 8: July 14, Saturday
+
+**Today's Progress**:
+
+```
+11.19a Continue Studying
+✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ~Todd's HtCaW:aHTaCT -> ShayHowe positioning -> MDN CSS Layout -> FCC curriculum
+
+Todd's
+	font:
+		font property: (== font-style + font-variant + font-weight + font-size + line-height + font-family)
+
+		serif has feet. Sans serif, most preferred on web, doesn't have. Sans = none/without. Serif = slight projection of a finished stroke
+
+		font-size: vw > rem > px 		(viewport width > Root M (default font size) > pixels) 
+			common size-ing usage
+				% : 	width & height of 	containers, divs, and responsive imgs
+					https://medium.com/@madhum86/css-font-sizing-pixels-vs-em-vs-rem-vs-percent-vs-viewport-units-b1485716afe7
+				*fluid responsive > adaptive (vw > media queries + rem) 
+					https://www.elegantthemes.com/blog/divi-resources/better-mobile-website-design-how-to-use-vw-vh-and-rem-to-create-fluid-divi-pages
+		external font first before external css
+		"always monitor the weight of everything you're downloading (weight = file size) via Dev Tools>network"
+		Ctrl + Shift + R 	== hard refresh
+	Display
+		</nav><!-- you can't leave a space or return her --><main>  	an HTML bug/quirk/feature 		having display:inline-block
+1.48p http://learnlayout.com
+	'position: absolute' behaves like 'position: fixed' but relative to the nearest positioned ancestor, NOT the viewport.
+
+	'display: inline-block' layout
+		elements are affected by the 'vertical-align' property, w/c you probably want set to top
+		theere will be a gap between the columns if there is any whitespace between them in the HTML
+	column-count 		as answer to prevent annoyance when reading long lines of text
+
+	flexbox centering 		'align-items: center' + 'justify-content: center'
+2.20p done w/ learnlayout.com
+
+5.30p Decided to call it a day, since it's Saturday and I got appointment from 6pm to 11pm
+
+✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ~Todd's HtCaW:aHTaCT -> ✓learnlayout.com -> ShayHowe positioning -> MDN CSS Layout -> FCC curriculum
+
+Things to do:
+	☐	optimize those two small img for the tribute page 
+   ```
+**Thoughts** Way way more to go. I was thinking if right now, my strategy of learning is right or it can be improved. I just wonder if it's right to pick only one project from FCC RWD projects then study the necessary and relevant materials needed. Or I should study all the materials and every time I end a concept or knowledge, I should try to implement it in a project, thus, I will work on the five projects simultaneously. But as I'm typing this, I also realized that the latter part can be good to minimize time for learning and accomplishment of projects, but the workflow for each project will not be realistic in terms of what happens in real dev work wherein you just focus on one or two projects, design then build, then as you encounter holes in knowledge, you research and study how. So as of this writing, I'll stick with the first option. Besides, I feel great with what I'm learning for I know I'm gaining traction little by little to my dreams of creating helpful things out of nothing. :) #GoodFoundationFirst 
+
+**Link(s) to work** same as day 5
+
+<!--
+### Day 8: July 14, Saturday
+
+**Today's Progress**:
+
+```
+   ```
+
+**Thoughts**
+**Link(s) to work** [link name](url)
+   -->
