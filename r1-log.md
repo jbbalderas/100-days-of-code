@@ -50,3 +50,8 @@ Study Fundamentals
 Study Fundamentals
 - Finished studying relevant materials, on making my tribute page project by FCC RWD, in Rob's TCWDC2.
 - Halfway done studying relevant materials on Todd's HtCaW:aHTaCT
+
+### R1D8 7/14/18
+Study Fundamentals
+- Finished learnlayout.com
+- 2/3 done studying relevant materials on Todd's HtCaW:aHTaCT, but then when I scanned the syllabus for relevant topics, I also added another 2 chapters so it means, I'm halfway done (again). Wuhooo!
