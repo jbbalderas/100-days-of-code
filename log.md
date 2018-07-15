@@ -454,8 +454,168 @@ Things to do:
 
 **Link(s) to work** same as day 5
 
+
+### Day 9: July 15, Saturday
+
+**Today's Progress**: Zoom out on coding and learn things related to it.
+
+```
+5.13p Googled: "mistake" "full stack developer" "web"
+	It’s tempting to dive straight into Javascript or Python because it might seem more interesting, but ultimately that would be a mistake. (re: Step 1 – Learn HTML)
+		http://fullbit.ca/2018-full-stack-developer-road-map-part-1-front-end-development/
+
+	"mistake" "wish" "realized" "taught" "learned"
+	• Having to clean up old code mistakes is a lot more time-consuming than planning thoroughly and doing things right from the start.
+	• a mistake I think many rookies make is to consider a computer science degree a substitute to self-learning or a bootcamp, as a means of becoming a web and/or mobile developer. Based on my experiences, this is not accurate.
+	• On a final note, a mistake I think many rookies make is to consider a computer science degree a substitute to self-learning or a bootcamp, as a means of becoming a web and/or mobile developer. Based on my experiences, this is not accurate.
+	and it taught me an important lesson. In the world of Agile software development, lone wolfing isn’t an option. Teamwork is a major part of finding a productive workflow. (re: not reaching a productive level in line w/ the rest of his team)
+		https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051
+
+	• The most common mistake in web design is being inspired by web design. It’s easy to get in a loop of looking for inspiration in the kind of things we’re already making. -Jessie White, Associate Creative Director, Instrument
+
+	• One of the most common mistakes I see is having text and elements too close to each other. When things are visually messy, it makes users want to leave your site sooner. -Wes Bos , Full Stack Developer and Teacher of all things web
+
+	• One mistake I seem to catch again and again is the overzealous use of the overflow property in CSS, specifically ‘overflow: scroll.’ -Skylar Challand, Founder, Oak
+
+	• Once the creative process has kicked off, a common mistake I see interactive designers make is separating the design phase from the technology phase. It’s easy to layout some great looking static pages in Photoshop or Sketch, hand over the files to a developer, and move on. But exploring the technology angle simultaneously with the creative approach is what sets great websites apart from average ones. -Melissa Showalter, Art Director, Instrument
+
+	• I think the most common web design mistake I see is sites not respecting users and their time. (Bloated, slow-loading pages; Overly-aggressive advertising; Popups and overlays; Dark patterns; Other superfluous or intentionally deceptive practices I lovingly classify as bullshit.) -Brad Frost, author of Atomic Design
+
+	• A mistake I often see designers make is treating web design like print design... Unlike print, which is static and can be tightly controlled, great web design must be based on a super flexible, highly considered system that addresses all the crazy use cases that come with the modern internet. -Patrick Richardson, Co-Founder, Executive Director, Franklyn
+
+	• The most common Web Design mistake I see is lack of compelling content. -commenter Michelle Hickey
+
+	• so many major e-commerce sites not calling the correct mobile keyboard for specific form fields or overlooking the autocorrect, autocapitalize and autocomplete attributes for mobile forms. Unfortunately, that seems to be the case with the name and email inputs of this form as well. -commenter Adam Lane
+
+		https://blogs.adobe.com/creativecloud/experts-weigh-in-what-is-the-most-common-web-design-mistake-you-see/
+
+	• The secret is to learn ONLY ONE THING at a time.
+		https://ihatetomatoes.net/3-steps-becoming-better-front-end-developer/
+
+Jay Shetty's Strengths Finder
+	1. Uncover your strengths
+		16personalities.com
+		1.1 Ask at least three persons, as detailed as possible your skills, expertise, talents
+		1.2 Find patterns
+		1.3 Writing your own job description based on what people said, and the themes and patterns that you see, and how you see your self.
+	2. Becoming an expert (invest in your strengths!)
+		2.1 read books
+		2.2 networking (shadow, volunteer, intern)
+		2.3 online course
+		2.4 start an MVT minimum viable test
+	3. Living and breathing your strengths (apply!)
+		volunteer, workplace, 
+
+		via Email subscription
+https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
+	1) Writing code w/o planning
+		Do not think about programming as writing lines of code. Programming is a logic-based creativity that needs nurturing.
+	2) Planning too much before writing code
+		Planning all the features at once should simply be outlawed!
+	3) Underestimating the Importance of Code Quality
+		use ESLint and Prettier
+		-Using many lines in a function or a file
+		-Using double negatives. Please do not not not do that.
+		-Using short, generic, or type-based variable names. Give your variables descriptive and non-ambiguous names.
+		-Hard-coding primitive strings and numbers without descriptions.
+		-Using sloppy shortcuts and workarounds to avoid spending more time around simple problems. Do not dance around problems. Face your realities.
+		-Thinking that longer code is better.
+	4) Picking the First Solution
+		find the simplest solution to the problem. By “simple” I mean the solution has to work correctly and perform adequately but still be simple enough to read, understand, and maintain.
+	5) Not Quitting
+		sticking with the first solution even after I identify that it might not be the simplest approach. when it comes to writing programs, the right mentality is fail early and fail often.
+	6) Not Googling
+	7) Not Using Encapsulation
+		If you make a simple change and then discover that the change has a cascading effect and you need to do many changes elsewhere, that is another sign of newbie code.
+		Have High Cohesion and Low Coupling, which is just a fancy term that means keep related code together (in a class) and reduce the dependencies between different classes.
+		This is not about secrecy but rather about the concept of reducing dependencies between the differenet parts of an application.
+	8) Planning for the Unknown
+		Always write the minimum amount of code that you need today for the solution that you are implementing. Handle edge-cases, sure, but do not add edge-features.
+	9) Not Using the Right Data Structures
+		to manage a LIST of records you should use a MAP.
+		just use a Stack structure. it is usually hard to optimize recursive code, especially in single-threaded environments.
+	10) Making Existing Code Worse
+		Duplicating code.
+		Not using configuration files.
+		Using unnecessary conditional statements and temporary variables. 
+	11) Writing Comments About the Obvious Things
+		Most comments can be replaced with better-named elements in your code.
+	12) Not Writing Tests 
+		Testing-driven development (TDD) is not just some fancy hype. It positively affects the way you think about your features and how to come up with a better design for them.
+	13) Assuming That If Things are Working then Things are Right
+		handling of invalid input
+		 handling for empty input.
+	14) Not Questioning Existing Code
+		As a beginner, you should just assume that any undocumented code that you do not understand is a candidate for being bad. Question it. Ask about it. git blame it!
+	15) Obsessing About Best Practices
+		There are no best practices. There are probably good practices today and for this programming language.
+	16) Obsessing About Performance
+		Premature optimization is the root of all evil (or at least most of it) in programming — Donald Knuth (1974)
+	17) Not Targeting the End-user Experience
+	18) Not Picking the Right Tool for the Job
+	19) Not Understanding that Code Problems Will Cause Data Problems 
+		Use multiple layers of data integrity validations. Do not rely on the single user interface. Create validations on front-ends, back-ends, network communications, and databases. If that is not an option, then you have to at-least use database-level constraints.
+		If multiple operations need to change the same data source and they depend on each other, they HAVE to be wrapped in a transaction that can be rolled back when one of these operations fail.
+	20) Reinventing the Wheel
+	21) Having the Wrong Attitude Towards Code Reviews  
+	22) Not Using Source Control
+	23) Over-Using Shared State
+		The big problem with shared state starts to happen when multiple resources need to change that state together in the same tick of the event loop (in event-loop-based environments). Race conditions will happen.
+		A newbie might be tempted to use a timer as a workaround for this shared state race condition problem, especially if they have to deal with a data lock issue. That is a big red flag.
+	24) Having the Wrong Attitude About Errors
+	25) Not Taking Breaks
+
+https://medium.com/the-mission/most-people-think-this-is-a-smart-habit-but-its-actually-brain-damaging-9a6f3d6bccc9
+	• Junk Learning Source #1. The “Facts” We Know Are Slowly Being Debunked
+		Learning physically changes our brain.
+		Much of the learning that people are exposed to by default is junk learning.
+		Junk learning effectively equivalent to brain damage and impairs our ability to function in the world.
+		Junk learning is like a disease that spreads throughout the brain and causes more junk learning.
+
+	Lesson Learned: Look for information that actually increases in value over time. When it comes to knowledge, think like an investor, not a consumer.
+
+	• Junk Learning Source #2: A Little Knowledge Is Dangerous
+		Dunning-Kruger effect: least knowledge == highest confidence; 
+	Lesson Learned: No matter how much we know, we only know a fraction of all there is to know. We must assume our own ignorance. An attitude of caution can help us avoid developing false beliefs that can lead to irrational decisions.
+
+	• Junk Learning Source #3: Our Confirmation Bias Makes Us Progressively More Dumb
+		One of the biggest daily examples of confirmation bias involves our social media bubbles: We read the same sites, listen to the same friends (who agree with us!), and watch the same news over and over, which only confirms what we already believe. When we’re exposed to something that doesn’t fit our model of the world, we unconsciously either ignore it, minimize it, or attack it
+
+		We learn the most by proving ourselves wrong, not by proving ourselves right. Many of the greatest thinkers of the 20th century independently came to this conclusion.
+	Lesson Learned: We need to identify and stress-test our most fundamental beliefs about the nature of reality — and learn how to handle the strong emotions that will come up when we do.
+
+	• Junk Learning Source #4. We Trust the Wrong Ideas and the Wrong People
+		Halo Effect: a cognitive bias that makes us trust a person’s advice in one area of life simply because they are an expert in another area.
+
+	Lesson Learned: As a result of reading The Halo Effect, I’ve become much more suspicious of listening to celebrity experts in any field. Instead, now whenever I look at who to emulate, I specifically look for people who have experienced success over and over not because of luck or celebrity, but because of skill. In my experience, many of these individuals are not celebrities. Then, I carefully experiment with their advice to see if it will transfer to my context.
+
+	• Junk Learning Source #5. Over-specialization limits our ability to learn across disciplines
+		keeping in mind that it is difficult to predict what skills will be required two or three decades from now, the best option seems to supplement the teaching of specific knowledge with the teaching of metaheuristics that are transferable (Grotzer & Perkins, 2000; Simon, 1980). These may include strategies about HOW TO LEARN, HOW TO DIRECT ONE’S ATTENTION IN NOVEL DOMAINS, and how to monitor and regulate one’s limited resources, such as small STM [short-term memory] capacity and slow learning rates.
+
+	Lesson Learned: Being too specialized can hurt future learning if done alone. Supplement by spending more of your time learning fundamental knowledge that doesn’t change. This is why we created the Mental Model Club.
+
+	[Take Action: Strengthen Your Brain Instead of Damaging It]
+		learning how NOT to learn can help us learn faster and better
+
+		1. Our “facts” are expiring and we don’t even know it.
+			When it comes to knowledge, think like an investor, not a consumer.
+		2. A little knowledge is dangerous.
+			Realize you only know a little bit.
+		3. Our confirmation bias makes us progressively more dumb.
+			Identify and stress-test your most fundamental beliefs
+		4. We too often trust the wrong ideas and the wrong people.
+			Be super careful about whom and what you choose to emulate.
+		5. Over-specialization limits our ability to learn across disciplines
+			Instead, spend most of your time learning fundamental knowledge that doesn’t change such as mental models.
+   ```
+
+**Thoughts** On a Sunday, I defaulted to considering this as a rest day from coding. But I've got free time today, so I tried to Google questions in my mind. I also tried to star some email addresses on my primary email (so that none of them will go to spam), then tried to backread on what I missed and I'm satisfied to what I learned regarding typical mistakes of becoming a programmer/developer. I also got another chance to know more of my strengths, even though I already took the strengthsfinder 2.0 test online. Lastly, I learned how 'mental models' and 'principles' are the necessary foundations for our brain and of course in living a good life. #fundamentalsLast
+
+**Link(s) to work** none
+
+   
 <!--
-### Day 8: July 14, Saturday
+### Day 9: July 15, Saturday
 
 **Today's Progress**:
 
