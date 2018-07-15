@@ -55,3 +55,15 @@ Study Fundamentals
 Study Fundamentals
 - Finished learnlayout.com
 - 2/3 done studying relevant materials on Todd's HtCaW:aHTaCT, but then when I scanned the syllabus for relevant topics, I also added another 2 chapters so it means, I'm halfway done (again). Wuhooo!
+
+### R1D9 7/15/18
+Zoom out on coding and learn things related to it
+- Googled: "mistake" "full stack developer" "web"
+- Jay Shetty's Strengths Finder
+- If 'junk food' relates to physical diet, there's also 'junk brain food'. When it comes to knowledge, think like an investor, not a consumer. #longTermInvesting
+
+<!-- 
+### R1D8 7/14/18
+Study Fundamentals
+- Fin
+-->
