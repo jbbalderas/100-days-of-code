@@ -455,7 +455,7 @@ Things to do:
 **Link(s) to work** same as day 5
 
 
-### Day 9: July 15, Saturday
+### Day 9: July 15, Sunday
 
 **Today's Progress**: Zoom out on coding and learn things related to it.
 
@@ -613,7 +613,97 @@ https://medium.com/the-mission/most-people-think-this-is-a-smart-habit-but-its-a
 
 **Link(s) to work** none
 
+### Day 10: July 16, Monday
+
+**Today's Progress**:
+
+```
+10.59a
+
+https://medium.freecodecamp.org/mistakes-i-have-made-as-a-junior-developer-85260bdb992f
+
+https://medium.com/the-mission/2-eye-opening-experiences-that-trigger-immediate-clarity-and-behavior-change-7ad42561db6
+	1. Seeing someone else operate w/o fear (frontliners)
+	2. Have someone you love/respect tell it to you straight (feedback)
+
+https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5
+	write more code
+	incorporate tests
+	be hionest
+	contribute to open source
+	be open to help
+	pick a personal project
+	lower your ego
+	understand the 'why'
+	don't be lazy
+	solve coding challenges
+	encourage the good stuff
+	don't hid behind the layer
+Web Architecture 101
+	1. DNS
+	2. Load Balancer
+	3. Web App Servers
+	4. DB Servers
+	5. Caching Service
+	6. Job Queue & Servers
+	7. Full-text Search Service
+	8. Services
+	9. Data
+	10. Cloud Storage
+	11. CDN
+   ```
+
+**Thoughts** Trying to look to larger pictures and helpful articles for this journey. (Again) since I scheduled this day to meet an old friend (High School best friend), but she forgot about it. I'm writing this thought on day 11, Tuesday, since I got derailed by what happened yesterday. I think now I'm aware that hurdles or obstacles like that one where I felt disappointed must be acted with self-awareness. I must be aware that I'm feeling that emotion, and act to snap out of it so that I can continue having 'traction' pursuing my dreams instead of 'distraction'. #thoughtsFired
+
+**Link(s) to work** same as day 5
    
+### Day 11: July 17, Tuesday
+
+**Today's Progress**:
+
+```
+1.37p Finish Todd's
+
+Layout Essentials 	goo.gl/k7hbXq
+	Chapter 17. Layout with Position
+		position: fixed
+			nav, footer, modal
+		position: relative
+			- "relative to itself"
+			- element's original space in the DOM is still blocked out
+		position: absolute
+			- "in relationship to the next element UP the DOM, that also has position set than the default - static"
+	Chapter 18. Layout with Float
+		wrap around an image
+		-element should be 'taken from the normal flow' and placed along the 'left or right side of its "container"',
+		where '"text" and "inline" elements will wrap around it'
+
+		-overflow 		happens when the container is smaller than the floated element
+			fix 		overflow: auto
+		-clear: left/right/both
+	Font boosting
+		history: done by mobile browser. Randomly increase font sizes. Ex: two long Lorem paragraphs, but no boosting if just one
+			hacky sol'n: 	p{max-height: 1000000px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: none;}
+
+		meta-viewport tag
+			RULE: ALWAYS INCLUDE
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		width=device-width 		make the html/body's width = device-width
+		initial-scale=1			mapping CSS pixels to 'device independent pixels' (physical pixels = hardware pixel)
+
+		font boosting isn't needed if meta-vieport tag exists
+
+✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ✓Todd's HtCaW:aHTaCT -> ShayHowe positioning -> MDN CSS Layout -> ~FCC curriculum
+
+Study Fundamentals
+- Finished Todd's HtCaW:aHTaCT that's relevant to layout and positioning.
+- Did 30 min. of FCC's exercises.
+   ```
+
+**Thoughts** I haven't maximized my typical study time of 6 hours, today I just studied for 3 hours. I can see that it's because my morning routine got derailed by one big chunk and I guess it's one of the keystone habit that I've established these past two weeks. Failure again, so here I am, writing that next time, if I missed a habit (keystone or not) I should think of an alternative similar task or just commit to do the next habit/task/routine in queue at the proper time. #MistakeAdmitCorrectLearn
+
+**Link(s) to work** same as day 5
+
 <!--
 ### Day 9: July 15, Saturday
 
