@@ -62,8 +62,17 @@ Zoom out on coding and learn things related to it
 - Jay Shetty's Strengths Finder
 - If 'junk food' relates to physical diet, there's also 'junk brain food'. When it comes to knowledge, think like an investor, not a consumer. #longTermInvesting
 
+### R1D10 7/16/18
+Zoom out on coding and learn things related to it
+- read articles re: mistakes to be avoide,; web architecture 101, and 'two eye opening experience that trigger behavior change'
+
+### R1D11 7/17/18
+Study Fundamentals
+- Finished Todd's HtCaW:aHTaCT that's relevant to layout and positioning.
+- Did 30 min. of FCC's exercises.
+
 <!-- 
-### R1D8 7/14/18
+### R1D12 7/18/18
 Study Fundamentals
 - Fin
 -->
