@@ -71,8 +71,13 @@ Study Fundamentals
 - Finished Todd's HtCaW:aHTaCT that's relevant to layout and positioning.
 - Did 30 min. of FCC's exercises.
 
-<!-- 
 ### R1D12 7/18/18
+Study Fundamentals
+- Did some FCC curriculum challenges then after some accessibility exercises, I jumped through Rob's TCWDC2 exercise of "clone BBC News Website".
+- Done 80% with the first nav out of three. Humbled by my lack of experience, although proud that I'm gaining traction still.
+
+<!-- 
+### R1D13 7/19/18
 Study Fundamentals
 - Fin
 -->
