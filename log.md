@@ -704,8 +704,47 @@ Study Fundamentals
 
 **Link(s) to work** same as day 5
 
+
+### Day 12: July 18, Wednesday
+
+**Today's Progress**:
+
+```
+1:08p FCC curriculum challenges
+
+✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ✓Todd's HtCaW:aHTaCT -> ShayHowe positioning -> MDN CSS Layout -> ~FCC curriculum
+
+"Accessibility" generally means having web content and a user interface that can be understood, navigated, and interacted with by a broad audience. 
+	Some users rely on assistive technology such as a screen reader, voice recognition software, keyboard
+	1. have well0roganized code that uses appropriate markup
+	2. ensure text alternatives exist for non-text and visual content
+	3. create an easily-navigated page that's keyboard-friendly
+
+	WCAG W3 Consortium's Web Content Accessibility Guidelines
+
+alt attrib 		= describes content of image & provides a text-alternative (img failed to load). Used by search engines.
+				good alt text is short but descriptive, and meant to briefly convey the meaning of the image.
+				MANDATORY required per HTML5 spec
+					unnecessary if 1] img is group with a caption, 2] used for decoration only ex: bg image
+				Note: imgs w/ a caption, including ALT text helps search engines catalog the content of the image.
+
+5.03p enough with FCC, start rob's TCWDC2 hands on exercise of "clone BBC News Website"
+
+meta:vp
+
+
+"always try to work from the innermost element, style that, and make that work, instead of styling multiple outer elements" 
+	-jesse showalter https://youtu.be/Boc_IZNzlh4?t=14m55s
+
+   ```
+
+**Thoughts** Today I got humbled by this experience of trying to clone BBC news website. I struggled to quickly recreate the reference site's first navigation bar out of three just by using floats and positions. Halfway of my studying time today, I'm still struggling with vertical alignment of the navigation buttons so I took a break, got some light sweat, cleared that brain fog, then came back. I remembered Jesse Showalter's particular vid on his 'code and design' playlist where he is building his nav bar also. And so I watched it again and boom, one of his tip struck me, as I rewind for 10 seconds he said "always try to work from the inner most element, style that, and make that work, instead of styling multiple outer elements". There I rebuilt my CSS from the the innermost <a> elements for the vertical alignment and filling of the box model, and boom! I still am proud of what I've done and progressed today. #moreExperiencesPlease #danceWithFear
+
+**Link(s) to work** [clone BBC news website](http://completewebdevelopercourse.com/clone/)
+   
+
 <!--
-### Day 9: July 15, Saturday
+### Day 13: July 19, Thursday
 
 **Today's Progress**:
 
