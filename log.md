@@ -741,10 +741,147 @@ meta:vp
 **Thoughts** Today I got humbled by this experience of trying to clone BBC news website. I struggled to quickly recreate the reference site's first navigation bar out of three just by using floats and positions. Halfway of my studying time today, I'm still struggling with vertical alignment of the navigation buttons so I took a break, got some light sweat, cleared that brain fog, then came back. I remembered Jesse Showalter's particular vid on his 'code and design' playlist where he is building his nav bar also. And so I watched it again and boom, one of his tip struck me, as I rewind for 10 seconds he said "always try to work from the inner most element, style that, and make that work, instead of styling multiple outer elements". There I rebuilt my CSS from the the innermost <a> elements for the vertical alignment and filling of the box model, and boom! I still am proud of what I've done and progressed today. #moreExperiencesPlease #danceWithFear
 
 **Link(s) to work** [clone BBC news website](http://completewebdevelopercourse.com/clone/)
-   
+
+
+### Day 13: July 19, Thursday
+
+**Today's Progress**:
+
+```
+12.04p
+
+best practice to set box-sizing to border-box
+	*, *:before, *:after {
+		border: 1px dashed green;
+		box-sizing: border-box;	
+	}
+
+	https://internetingishard.com/html-and-css/css-box-model/
+
+https://www.quora.com/What-are-some-good-practices-to-organize-CSS-code
+	-Use comments where you think there are needed. Don’t comment what the CSS codes do but why you wrote that CSS.
+	-The best way/time to organize CSS code is when you are writing your stylesheet. 
+	-Put all CSS codes that are general to the page like typography, miscellaneous/`general trick` on top of the page.
+	-Write your CSS code flow (top to bottom) accordingly to your HTML code. Use comment to delimit different section of your CSS code.
+	-Write the CSS properties for selection in alphabetical order.
+	-Use proper name and convention for your selector. `block-left` and `block-right` is better that `b1` and `b2`.
+	-Organized your asset folders (images)
+		CSS Naming Conventions that Will Save You Hours of Debugging
+			-Use Hyphen Delimited Strings
+			-The BEM Naming Convention
+				--why?
+					1] Know what it does
+					2] Idea where it can be used
+					3] Know relationships bet. class names
+				B = Block
+					.stick-man
+				E = Element/s 			(two underscores)
+					.stick-man__head
+					.stick-man__arms
+				M = Modifiers 			(two hypens)
+					.stick-man__head--small
+					.stick-man__head--big
+			"There are only two hard problems in Computer Science: cache invalidation and naming things" — Phil Karlton
+			-CSS Names with JavaScript Hooks
+				--use js- class names
+					<div class="site-navigation js-site-navigation"></div> 			CSS
+					const nav = document.querySelector('.js-site-navigation') 		JS
+			-Write more CSS comments
+			https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
+
+7p-9p Manila Javascript #28: JavaScript Life at Nokia, Building O, UP Ayala Technohub.
+	"State Management with Unstated" by Albert Manuel (JavaScript Developer @ Nokia Technology Center Philippines) 
+	"GraphQL with JS" by Joe Gocotano (JavaScript Developer @ Nokia Technology Center Philippines) 
+	"Extend Reality with AR" by Archie Herbias (JavaScript Instructor @ Amagi Academy)
+	"Tips and Tricks for New Front End Developers" by Thomas Laughlin (CEO @ Amagi Academy)
+		Thomas Laughlin
+
+		@ThePracticalDev
+
+		Start from scratch.
+		Set goals
+
+		FS dev - I digress. "Full stack is a myth" 
+		-specialize
+
+		ES6+ use! 2015
+
+		Yarn> npm
+
+		You don't know everything. And that's okay. 
+
+		"Resume Driven Development" RDD 😂😂😂
+
+		Learn to build the things you want to be paid to build
+
+		[what should I learn first] 
+		Don't learn jQuery , learn DOM
+		Don"t learn Sass, learn CDS
+		Jade < HTML
+		Framework < JS
+		Handlebars <ES6
+		Bootstrap < UI design patterns
+
+		Learn Git
+		-Git help everyday
+
+		Start small and grow. Ex: learning english language
+		-read, tutorials, small projects, big projects
+
+		[what happens when I visit a site]?? 
+		Parsing/tokenization, load scripts, defer/async, etc.
+
+		Learn some style
+		Ex: airbnb style guide
+		"don't be mean to your teammates" 
+
+		Performance matters, specially in PH
+		Performancebudget.io
+
+		Minify or GZip
+
+		REST API design
+
+		Learn JS
+		Build stuff (like SPAs) 
+		And only then use frameworks
+
+		Follow the masters 
+		Read their code
+		Learn their lesson 
+
+		Understand FE data flow
+
+		Seriously ES6+
+
+		Use a tool to use modern JS
+		Babel + Typescript 
+
+		Learn Node & Yarn 
+
+		Understand async programming 
+
+		Don't stop learning
+		Be patient 
+		Creativity helps
+		EMPATHY
+
+		BrendanEich
+		Amasad
+		Rmurphey
+		KentCDodds
+
+		Fintech PH, MNL analytics, devops PH
+
+   ```
+
+**Thoughts** Feeling worried at the same time excited as I walked past through Nokia's, Bldg. O pantry, at UP Ayala Technohub as my first ever attended meetup.com event: Manila Javascript #28 - The JavaScript Life. I just had a conversation with the meetup organizer, Thomas Laughlin (CEO of Amagi academy), where I asked him something in the sense of "which companies here in the Philippines are like the Google, Facebook, and Airbnb's of Silicon Valley; the landing job success stories in the context of PH". His answer's gist was there was none so far, since the tech scene here in the PH is just building up, almost all the techies here are young ones like me. Nokia and Freelancer.ph are two of three companies he mentioned that I can remember. I have learned from the conversation that there's so much to learn, that perhaps I'll be spending my 20-30s learning to be 'so good they can't ignore you'. One thing I can also remember from him was "avoid tech companies that will make you like a cattle or a carabao". I asked another question, a somehow bad question I guess? "if you will go back to your graduation, will you strive to work for good companies or you'll try to work for known persons who has skills that you like". His answer was it can be both. Thing is, some companies here in PH, like Nokia, even let their European devs to train Filipino devs. One thing I regret was that I wasn't able to say to sir Thomas that "Thank you sir. I can see that you'll have great effect and value in building up the tech scene here in the Philippines, that you'll be remembered for". Hey, after writing this, I guess I also need to write it here that "I'll build the next unicorn tech company here in the PH" (that's my greatest goal as a dev student) #theMagicOfThinkingBig #beSoGoodTheyCantIgnoreYou
+
+**Link(s) to work** Airbnb style guide + same as day 5
+
 
 <!--
-### Day 13: July 19, Thursday
+### Day 14: July 20, Friday
 
 **Today's Progress**:
 
