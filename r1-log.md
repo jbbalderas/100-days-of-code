@@ -76,8 +76,13 @@ Study Fundamentals
 - Did some FCC curriculum challenges then after some accessibility exercises, I jumped through Rob's TCWDC2 exercise of "clone BBC News Website".
 - Done 80% with the first nav out of three. Humbled by my lack of experience, although proud that I'm gaining traction still.
 
-<!-- 
 ### R1D13 7/19/18
+Study Fundamentals
+- Just tweaked a bit on the first nav, 80% now 82%. With just one hour, I also learned best way to reset box-sizing, good practices to organize CSS code, and CSS naming conventions.
+- Attended my first ever meetup.com event: Manila Javascript #28 - JavaScript Life. GraphQL, Unstated, AR.js, and of course sir Thomas Laughlin's: Tips 'n tricks for Front End Developers.
+
+<!-- 
+### R1D14 7/20/18
 Study Fundamentals
 - Fin
 -->
