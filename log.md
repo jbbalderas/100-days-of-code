@@ -880,8 +880,28 @@ https://www.quora.com/What-are-some-good-practices-to-organize-CSS-code
 **Link(s) to work** Airbnb style guide + same as day 5
 
 
-<!--
+
 ### Day 14: July 20, Friday
+
+**Today's Progress**:
+
+```
+tweaked specifics to mimic the exact basis to clone
+	padding has no effect because max-height was set
+		ul li's height to set #topbar height
+
+:hover bottom border color
+   ```
+
+**Thoughts** I coded today for just one hour. I'm still grateful with what I've done today since I prioritized to go ask advise my two advisers on my academic journey (undergraduate BS Computer Science). First is my thesis adviser, then my department's (Dept. of Comp Sci) adviser. I got good news on both. For me, what's remarkable today was the proof of getting to act immediately. As Jim Rohn have said, self discipline is 1] the awareness for the constant need for action, 2] and a conscious act to implement that action. If there's considerable time that passes between 1 & 2, then that is called procrastination. Procrastination was my biggest dream killer. After getting good news from my thesis adviser, I took the chance to talk to my dept. adviser this same day. I'm glad I did, I can't tell the details on what happened here. Gist was, I took some time to contemplate what my next step was, and what I'm going to ask for advise, IF I'll still go to my dept. adviser, I took a "forest bath" near our dept. to get some fresh air, (since UP Diliman has many mini forestries) then boom, I guess that helped also. I also had a pick up basketball game tonight, and I also realized that even though I'm training my skills individually everyday, I also need to train my team skills again (need to play 5 vs 5 every week).
+
+![bbc clone topbar progress gif](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/bbc%20clone%20topbar%20progress.gif "Trust the process")
+
+**Link(s) to work** Airbnb style guide + same as day 5
+
+
+<!--
+### Day 15: July 21, Saturday
 
 **Today's Progress**:
 
