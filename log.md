@@ -899,6 +899,43 @@ tweaked specifics to mimic the exact basis to clone
 
 **Link(s) to work** Airbnb style guide + same as day 5
 
+### Day 15: July 21, Saturday
+
+**Today's Progress**:
+
+```
+
+12.14p
+
+if display:inline like span, to move:
+	1] position: relative, then set T/R/B/L
+	2] float: left
+
+**SVG > sprites > images > font icons 	for icons 	https://web-crunch.com/should-i-use-svg-icon-fonts-or-images/
+
+down-arrow icon
+	position: relative/absolute;
+search-bar div
+	2 items
+		placholder
+		background-image: url();
+
+	<img 				id="magnifying-glass" src="./img/magnifying-glass.png" alt="">
+	<INPUT TYPE="IMAGE" id="magnifying-glass" src="./img/magnifying-glass.png" alt="">
+
+ctrl+KU equals ST3 uppercase
+
+<a> tag default is inline. clickable image but <a> is lost
+	display: block + float:left
+
+"ul a:first-child" selects all <a> tags under <ul>
+   ```
+![BBC clone topbar done](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/bbc%20clone%20topbar%20progress%20d15.gif "So many references for my BBC clone. Ahaha.")
+
+**Thoughts** Yeah! That's my first ever raw HTML + CSS div done (with them ol' school layouts via "position: relative/absolute" and "floats") in my life even though I had the chance to try things like these before. Same feeling I've got when I first tried to print "Hello World!" via C on a command line. Next navbar and divs, I'll try to speed things up. #HelloWorld #HelloAmazonHelloGoogleHelloFacebook
+
+**Link(s) to work** Airbnb style guide + same as day 5
+
 
 <!--
 ### Day 15: July 21, Saturday
