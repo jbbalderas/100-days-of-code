@@ -16,7 +16,7 @@ Continue tribute-page
 - Learned how a real web designer developer have his typical workflow
 
   https://www.youtube.com/playlist?list=PLrtjkLnNjGHu7QIc8jN7hZmuP6wMby2QZ
-- Built my first HTML skeleton/structure. When I first tried HTML & CSS, I was told to use an free HTML boilerplate. 
+- Built my first HTML skeleton/structure. When I first tried HTML & CSS, I was told to use a free HTML boilerplate. 
 - Sublime Text 3 customization
 
 ### R1D3 7/9/18
@@ -84,6 +84,13 @@ Study Fundamentals
 ### R1D14 7/20/18
 Study Fundamentals
 - (For just one hour) Tweaked topbar specifics to mimic the exact basis to clone
+
+### R1D15 7/21/18
+Study Fundamentals
+- Finished top nav bar for the BBC clone
+   - Learned SVG > sprites > images > font icons https://web-crunch.com/should-i-use-svg-icon-fonts-or-images/
+   - Learned <input type="image">; backround-image: url() + background-repeat: no-repeat; for inline elements to wrap inside block elements display:block + float:left/right/center
+
 
 <!-- 
 ### R1D15 7/21/18
