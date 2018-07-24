@@ -936,9 +936,98 @@ ctrl+KU equals ST3 uppercase
 
 **Link(s) to work** Airbnb style guide + same as day 5
 
+### Day 16: July 24, Tuesday
+
+**Today's Progress**:
+
+```
+12.34p
+
+Vertical centering via "display:inline-block" + 'vertical-align:middle" must have a pseudo element trick for the container div, to work.
+	.container{
+
+	}
+
+	.container:before {
+	    content: '';
+	    display: inline-block;
+	    vertical-align: middle;
+	    height: 100%;
+	}
+
+	.vertical-align-me{
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	https://codepen.io/edge0703/pen/iHJuA?editors=1100
+	http://christopheraue.net/design/centering-with-vertical-align-middle
+		Flexbox way is way easier, this is just how they do it back then. IE8+ compatible.
+
+Button by default don't have hand/link cursor pointer. needs
+	cursor: pointer;
+
+	https://ux.stackexchange.com/questions/105024/why-dont-button-html-elements-have-a-css-cursor-pointer-by-default
+		it's redundant for buttons to say that it is clickable
+6.17p
+	when there are too many anchor <a> elements with pseudo class selector :hover, the just "class selector" doesn't take effect.
+		.blue-btm-on-hover:hover 	only has 0-0-1-0 calculated specificity. To solve, either 
+			1] put !important on each value after a their properties
+			2] add specificity of id 	"#topbar .blue-btm-on-hover:hover{ }" 	now has 0-1-1-0 calculated specificity
+
+learned how inheritance behaves. For example I wrapped an anchor tag inside a div 	
+	emmet: div>a>(h2+img+(div>(p+(div.time-category-div>span+a)+a*2)))
+	<div>
+		<a href="">
+			<h2></h2>
+			<img src="" alt="">
+			<div>
+				<p></p>
+				<div class="time-category-div"><span></span><a href=""></a></div>
+				<a href=""></a>
+				<a href=""></a>
+			</div>
+		</a>
+	</div>
+
+	Now, all elements starting from h2 will have an imaginary/implicit <a> parent. 
+	So even if I style just the anchor <a> tag besides the <span>
+		ex: .time-category-div a{
+				color: #b82325;
+			}
+	the span besides it will also inherit the styling since there's an implicit <a> parent of <span>.
+
+	To style the <a> tag inside the class time-category-div w/o affecting the span:
+		.time-category-div a:LAST-CHILD{
+			color: #b82325;
+		}
+
+problem: trying to have inherited a:hover for a whole div, except <a> and <span> elements. Doesn't work
+	sol'n: (none) just individualy set :hover per element :'(
+
+Fun with styling via classes
+	<div id="section-div-1" class="border-right padding-right"></div>
+	<div id="section-div-2" class="border-right padding-left padding-right"></div>
+	<div id="section-div-3" class="padding-left"></div>
+
+	.padding-left{
+		padding-left: 18px
+	}
+
+	.padding-right{
+		padding-right: 18px
+	}
+   ```
+   
+![BBC clone botbar + divs done](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/bbc%20clone%20topbar%20progress%20d16.gif "FunFunFun")
+
+**Thoughts** As I've said last Saturday, I'll aim for speed, that's why I'm proud that I _almost_ finish the BBC clone project today. There was just some roadbumps in the latter part of cloning. This makes me worry a bit as to why I still encounter things where I can't figure out what's wrong. Oh well, I guess that's something we can't eliminate at all. At least I still made a way to solve with a working sol'n although it took me time to give in. Just as I have read on the book _The Magic of Thinking Big_, regarding the tip "don't wait for the perfect condition to start", to practice this since we can't eliminate all risks 1] expect challenges and obstacles, 2] face them when they arise. #LezGo #DavidSchwartz #GetTheActionHabit
+
+**Link(s) to work** Airbnb style guide + same as day 5
+
 
 <!--
-### Day 15: July 21, Saturday
+### Day 16: July 24, Tuesday
 
 **Today's Progress**:
 
