@@ -91,9 +91,16 @@ Study Fundamentals
    - Learned SVG > sprites > images > font icons https://web-crunch.com/should-i-use-svg-icon-fonts-or-images/
    - Learned <input type="image">; backround-image: url() + background-repeat: no-repeat; for inline elements to wrap inside block elements display:block + float:left/right/center
 
+### R1D16 7/24/18
+Study Fundamentals
+- Finished bot nav bar and the main + aside + divs for the BBC clone
+   - Learned vertical centering via inline-block + 'vertical-align:middle" must have a pseudo element trick for the container div, to work.
+   - Button by default don't have hand/link cursor pointer, and the why.
+   - Saw how inheritance behaves.
+   - Had fun having classes to style ex: padding-left, padding-right
 
 <!-- 
-### R1D15 7/21/18
+### R1D16 7/24/18
 Study Fundamentals
 - Fin
 -->
