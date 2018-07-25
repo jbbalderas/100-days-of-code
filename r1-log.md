@@ -106,6 +106,7 @@ Study Fundamentals
 - Finished Shay Howe's Lesson 5: Positioning Content (Floats, Inline-Block, Reusable Styles, Position tweaks)
 - Finished MDN's CSS Layout topics:
    - 1] Supporting Older Browsers
+      - "developers are often very worried about the experience of 1% of users in an old version of Internet Explorer, while not considering at all the far greater number who accessibility needs."
    - 2] Legacy Layout Methods (Floated Grid, Flexbox Grid, Third Party Grid Systems)
    - 3] Practical Positioning Examples
    - 4] Floats    (display: flow-root)
