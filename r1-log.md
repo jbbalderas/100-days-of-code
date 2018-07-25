@@ -99,8 +99,18 @@ Study Fundamentals
    - Saw how inheritance behaves.
    - Had fun having classes to style ex: padding-left, padding-right
 
+### R1D17 7/25/18
+Study Fundamentals
+- Finished BBC clone project
+   - had experienced reusable styles
+- Finished Shay Howe's Lesson 5: Positioning Content (Floats, Inline-Block, Reusable Styles, Position tweaks)
+- Finished MDN's CSS Layout topics:
+   - 1] Supporting Older Browsers
+   - 2] Legacy Layout Methods (Floated Grid, Flexbox Grid, Third Party Grid Systems)
+   - 3] Practical Positioning Examples
+   - 4] Floats    (display: flow-root)
 <!-- 
-### R1D16 7/24/18
+### R1D17 7/25/18
 Study Fundamentals
 - Fin
 -->
