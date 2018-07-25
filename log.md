@@ -1025,9 +1025,101 @@ Fun with styling via classes
 
 **Link(s) to work** Airbnb style guide + same as day 5
 
+### Day 17: July 25, Wednesday
+
+**Today's Progress**:
+
+```
+12.38p
+
+1.30p Finished BBC clone project by Rob
+
+4.15p
+	✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ✓Todd's HtCaW:aHTaCT -> ~ShayHowe positioning -> MDN CSS Layout -> ✓FCC curriculum
+
+
+Shay Howe's Lesson 5: Positioning Content
+	Floats
+		"As elements are floated, it is important to keep note of how they affect the flow of a page and to make sure the flow of a page is reset by either clearing or containing the floats as necessary. Failing to keep track of floats can cause quite a few headaches, especially as pages begin to have multiple rows of multiple columns"
+	Inline-Block
+		removing spaces between inline-block elements
+			1] put each element's opening tag on the same line as the previous element's closing tag
+			2] open an HTML comment directly after an inline-block element's closing tag. Close before the next I-B E's opening tag.
+	Creating Reusable Layouts
+		it's best to write modular styles that may be reused elsewhere
+	Uniquely Positioning Elements
+		relative; absolute; 
+
+✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ✓Todd's HtCaW:aHTaCT -> ✓ShayHowe positioning -> ~MDN CSS Layout -> ✓FCC curriculum
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers
+basic level of support for browsers and devices
+	"Therefore, a well-structured HTML document should always be your starting point. If you remove your stylesheet, does your content make sense?"
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers
+	"Accessibility and people using assistive technology should always be considered, but for some sites that may be even more critical. In my experience, developers are often very worried about the experience of 1% of users in an old version of Internet Explorer, while not considering at all the far greater number who accessibility needs."
+
+	Feature queries will work for browsers that also supports CSS Grids, and vice versa, so we:
+		1] write our old CSS first, outside of any feature query (for old browsers not supporting Grid)
+		2] Modern browsers will run CSS Grid and so will run the grid code and the code inside the feature query
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Legacy_Layout_Methods
+	Creating simple legacy grid frameworks (12 column grid: divisible by 6, 4, 3, & 2) 
+
+	FLOATED GRID
+		.col .span$ .offset-by-one
+		-px 			Fixed width/s. Not flexible/fluid w/ respect to viewport
+		-% 				Fluid w/ respect to viewport
+			target/context = result*100
+			add max-width to stop layout becoming too wide
+		-calc() 		to do the math right inside your CSS
+
+		Limitations
+			- Total widths must add up correctly, else, elements on the end will drop down to the next line, breaking the grid
+			- Overflow (mess) will occur if content of the elements get wider than the rows they occupy
+			- One dimensional. Difficult to control the height of elements w/o explicit setting. Inflexible for dynamic/unknown height
+
+	FLEXBOX GRIDs?
+		.wrapper .row .col 
+
+		Limitations
+			- One dimensional by design. Still need to calculate percentages as for the floated layout.
+			- .span still needs width that will replace the value used by flex-basis
+
+	THIRD PARTY GRID SYSTEMS
+		Bootstrap
+		Foundation
+		Skeleton
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Practical_positioning_examples
+	A tabbed info-box
+	A fixed position tabbed info-box
+	A sliding hidden panel
+		checkbox hack 	(JS-free way)
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats
+	1] Clearfix hack
+	2] overflow: auto
+	3] DISPLAY: FLOW-ROOT; 		caniuse.com 7/28/2018 	global=63% :'( 		only chrome61+ and firefox 68+ 
+
+✓Stanford's CS193c -> ✓colt's WDBC -> ✓rob's TCWD2 -> ✓Todd's HtCaW:aHTaCT -> ✓ShayHowe positioning -> ✓MDN CSS Layout -> ✓FCC curriculum
+
+NEXT: Finish Tribute Page
+   ```
+   
+![BBC clone finally finished](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/bbc%20clone%20topbar%20progress%20d17.gif "Finally!")
+
+**Thoughts** Finally, I finished the BBC clone project. I just realized that this exercise really showed a huge part of me which is perfectionism. And it's somehow disgusting because I should have proceed with this exercise as fast as I can so that I can get to move on with other HTML CSS projects so that I can get to real programming w/c is JavaScript. But another part of me is proud that I made it this way (slowly but surely) way because as I've said before, form over speed first since I'm getting my fundamentals.
+As one can see on the "today's progress" section, I just spent 1 hour to finish the project, one can ask why not finish it yesterday since it's so close. Well, I've got to say that I commend Justin for doing this. For sticking with his routine, his personal assistant (w/c is Google Calendar), since sleep and rest is also a priority for him. #KeepItUp #alsoKeepUp #GoFinishThatFirstFCCproject
+
+**Link(s) to work**
+1. [CSS Resiliency Video Series](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
+2. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+
 
 <!--
-### Day 16: July 24, Tuesday
+### Day 17: July 25, Wednesday
 
 **Today's Progress**:
 
