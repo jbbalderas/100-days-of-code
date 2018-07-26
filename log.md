@@ -1117,9 +1117,55 @@ As one can see on the "today's progress" section, I just spent 1 hour to finish 
 2. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 
+### Day 18: July 26, Thursday
+
+**Today's Progress**:
+
+```12.38p
+
+Back to FCC projects: should i continue, then create with legacy layouts? (floats, inline-block, positioning) or just Flex and Grid?
+	If just Flex and Grid
+		-study first Flex... then Grid... then just continue to build...
+		-will also go back (need) to have fallback for older browsers (using legacy layouts)
+	If legacy layouts
+		-build the first five FCC projects
+			-submit, then get that RWD certificate
+		-study Flexbox and Grid
+		-implement with the five projects, building up what's already done as fallback option
+	Choice: Legacy Layout track!
+
+https://github.com/jamiebuilds/itsy-bitsy-data-structures  super simplified examples of many of the common data structures written in easy to read JavaScript.
+
+Tribute Page Continuation
+	
+	make div centered inside a div
+		CENTERING CENTER in CSS
+		http://howtocenterincss.com
+
+
+CSS Legacy Layouts
+
+	Inline Block >>>> Float  		https://stackoverflow.com/questions/15172520/advantages-of-using-displayinline-block-vs-floatleft-in-css
+
+	Floats are good for known heights like nav bars. Else, inline-block
+
+	sitepoint.com "If you’re new to CSS layouts, you’d be forgiven for thinking that using CSS floats in imaginative ways is the height of skill. If you have consumed as many CSS layout tutorials as you can find, you might suppose that mastering floats is a rite of passage. You’ll be dazzled by the ingenuity, astounded by the complexity, and you’ll gain a sense of achievement when you finally understand how floats work.
+	Don’t be fooled. You’re being brainwashed."	 https://www.sitepoint.com/give-floats-the-flick-in-css-layouts/
+
+	This got me since all day, I'm persisting on using floats to layout a three column div (div | img | div) but failed to vertically center. I just realized that I'm insisting on using float so that I could practice more. Knowing later in the day that Inline-block is better in every way, because of my mentality earlier today, I even checked my 100daysofcode log, and saw that I've already noted that "inline-block is much better fallback (for Flex & Grid) than floats"
+
+Next: vertical align (still). Done: convert all floats to inline-block on tribute-page
+   ```
+
+**Thoughts** See "Today's Progress" last paragraph ("This got me since..."). What I've experienced today really resonates with just what I've read on the book The Magic of Thinking Big (also just today, after having lunch) w/c is re: Chapter 11: How to turn defeat into victory, point number four is "Blend persistence with experimentation". Stay with your goal but don't beat your head against a stone wall. Try new approaches. Experiment. In relation to what I'm doing awhile ago, I'm persisting to layout with just float, so I wasn't able to experiment with other options. #grateful #brainwashed #sociallyConditioned 
+
+![tribute page d18 float](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20d18%20float.png "persisting to layout with float got me stuck all day because I can't vertically center")
+![tribute page d18 inline block](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20d18%20inline%20block.png "convert them all floats into inline-blocks! Also, notice the comments on the HTML file as it's necessary to watch whitespaces to properly layout inline-block")
+
+**Link(s) to work** same as day 17
 
 <!--
-### Day 17: July 25, Wednesday
+### Day 18: July 26, Thursday
 
 **Today's Progress**:
 
