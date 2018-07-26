@@ -110,8 +110,14 @@ Study Fundamentals
    - 2] Legacy Layout Methods (Floated Grid, Flexbox Grid, Third Party Grid Systems)
    - 3] Practical Positioning Examples
    - 4] Floats    (display: flow-root)
+
+### R1D18 7/26/18
+Continue Tribute Page +Study Fundamentals
+- Decided whether to finish FCC RWD projects with "Legacy Layouts" vs "Flex & Grid".
+- Learned (reviewed/relearned) Inline Block is way way better than Floats.
+
 <!-- 
-### R1D17 7/25/18
+### R1D18 7/26/18
 Study Fundamentals
 - Fin
 -->
