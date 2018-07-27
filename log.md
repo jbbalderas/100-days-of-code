@@ -1164,8 +1164,81 @@ Next: vertical align (still). Done: convert all floats to inline-block on tribut
 
 **Link(s) to work** same as day 17
 
+### Day 19: July 27, Friday
+
+**Today's Progress**:
+
+```
+12.45p
+
+Finish Tribute Page
+	-Row 2
+	-2 div>blockquote
+	-Footer
+
+1.52p 	solved. Problem: vertical align div within div with unknown heights.
+Latest git commit:
+"
+Make divs inside row-2 vertically centered
+	Used "ghost element" technique since no other solution found.
+	Line-height = height to parent, and line-height: normal to
+	child didn't work.
+	https://codepen.io/anon/pen/GBMWjw?editors=1100
+	https://css-tricks.com/centering-css-complete-guide/
+
+	This problem took me some time since I wasn't applying the
+	vertical-align: middle; to the pic-div, which is also a child
+	of the parent 'row-2' div.
+"
+
+Learned writing Git commit conventions 		https://chris.beams.io/posts/git-commit/
+	1. Separate subjct from body w/ a blank line
+	2. Limit the subject line to 50 characters 			(If you’re having a hard time summarizing, you might be committing too many changes at once. Strive for atomic commits)
+	3. Capitalize the subject line
+	4. Do not end the subject line with a period
+	5. Use the imperative mood in the subject line
+	6. Wrap the body at 72 characters
+	7. Use the body to explain what and why (not how since code/git diff does this)
+
+https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+	Make small commits
+	Commit complete and well tested code
+	Write good commit messages
+	Use your code editor for long commit messages
+	learn to use Git with command line first
+	Read the Pro Git book
+
+
+next: how to mobile view the "row-2" BUT, what if I finish first all remaining parts, then mind the mobile view in batch?
+
+Inline-block centering examples
+	https://codepen.io/anon/pen/GBMWjw
+
+Turned out, as I investigate and read more regarding Vertical Centering, it seems "Ghost element" technique should be the "go to" technique.
+	IF legacy CSS layout and IE8+.
+	https://css-tricks.com/centering-in-the-unknown/
+
+Vertical-Align: MIDDLE is not dependent on line-height or the text-box (strut), instead, it's on the "baseline"
+	http://christopheraue.net/design/vertical-align
+
+	middle of element == middle of font (half font size)
+
+	"If there is a tall element in the line spanning across the complete height, vertical-align has no effect on it."
+
+next: 
+-what link on the "see more"
+-how to mobile view the "row-2" BUT, what if I finish first all remaining parts, then mind the mobile view in batch?
+--submit
+   ```
+
+**Thoughts** I'll finish this tomorrow, July 28 (Saturday), submit, then start on the next project. I'm grateful that after I had practice and immersion with CSS float layout via Rob's BBC clone project, I had immersion on inline-block on this FCC RWD tribute page project. Apparently, inline-block is much better than float when layout-ing pages. I thought this would be a walk in the park compared to float, but it's not because of vertical centering. So after I made my code work on the project today, I spent time to read "vertical-align" property which is so quirky and unconventional. Also, I can't wait to pass the finished code link to the projects section on FCC curriculum page. I'm excited to start the next project since Jim Rohn said (to whom I dedicate my tribute page) "If you are new at something, you make up in numbers, what you lack in skill". #quantityForExperience #allDayEveryDay
+
+**Link(s) to work** 
+1. [FCC RWD tribute page](https://jim-rohn.netlify.com)
+2. same as day 17 
+
 <!--
-### Day 18: July 26, Thursday
+### Day 19: July 27, Friday
 
 **Today's Progress**:
 
