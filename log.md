@@ -1230,6 +1230,8 @@ next:
 -how to mobile view the "row-2" BUT, what if I finish first all remaining parts, then mind the mobile view in batch?
 --submit
    ```
+   
+![FCC RWD tribute page r1d19](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20progress%20d19.gif)
 
 **Thoughts** I'll finish this tomorrow, July 28 (Saturday), submit, then start on the next project. I'm grateful that after I had practice and immersion with CSS float layout via Rob's BBC clone project, I had immersion on inline-block on this FCC RWD tribute page project. Apparently, inline-block is much better than float when layout-ing pages. I thought this would be a walk in the park compared to float, but it's not because of vertical centering. So after I made my code work on the project today, I spent time to read "vertical-align" property which is so quirky and unconventional. Also, I can't wait to pass the finished code link to the projects section on FCC curriculum page. I'm excited to start the next project since Jim Rohn said (to whom I dedicate my tribute page) "If you are new at something, you make up in numbers, what you lack in skill". #quantityForExperience #allDayEveryDay
 
