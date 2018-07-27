@@ -116,8 +116,14 @@ Continue Tribute Page +Study Fundamentals
 - Decided whether to finish FCC RWD projects with "Legacy Layouts" vs "Flex & Grid".
 - Learned (reviewed/relearned) Inline Block is way way better than Floats.
 
+### R1D19 7/27/18
+Continue tribute-page + Study Fundamentals
+- Finished Row 2 and Row 3. 80% done on footer.
+- Studied Vertical Align; Learned most values except (top & bottom) depends on the "baseline", not on line-height or the text-box
+- Reviewed writing Git commit conventions/best practices
+
 <!-- 
-### R1D18 7/26/18
+### R1D19 7/27/18
 Study Fundamentals
 - Fin
 -->
