@@ -1239,8 +1239,118 @@ next:
 1. [FCC RWD tribute page](https://jim-rohn.netlify.com)
 2. same as day 17 
 
+### Day 20: July 28, Saturday
+
+**Today's Progress**:
+
+```
+7.56p
+next: 
+	-what link on the "see more"
+-how to mobile view the "row-2" BUT, what if I finish first all remaining parts, then mind the mobile view in batch?
+	(Next time: after learning how to do this, then batch edit all five projects)
+		-Also add a soundcloud embed
+
+	--submit
+
+8.06p 	quick ways to make your website site googleable seo
+
+https://www.stylefactoryproductions.com/blog/six-simple-ways-to-make-your-site-more-visible-in-google-search-results
+	1] Register your site with Google Search Console
+		-The recommended site ownership verification method isn't applicable to netlify.com w/ just a free domain (HTML file upload)
+	2] Link your site to Google MyBusiness, and start using Google+ properly
+	3] Make your site load as fast as it can, particularly on mobile
+		https://developers.google.com/speed/pagespeed/insights/
+	4] Use relevant keywords in your page titles, meta descriptions and URLs
+	5] Create backlinks to your site
+	6] Follow Google's advice
+https://www.entrepreneur.com/article/273801
+	1] Optimize every page of your site with rich content.
+	2] Write unique title tags and meta descriptions for every page. 
+		https://yoast.com/meta-descriptions/ 	(How to create the right meta description)
+		2.1] It can be up to 155 characters — and sometimes more
+		2.2] It should be actionable and written in an active voice.
+		2.3] It should include a call-to-action.
+		2.4] It could contain structured content.
+		2.5] It should match the content.
+		2.6] It should contain the focus keyword.
+		2.7] The meta description should be unique.
+
+		It's best to keep meta descriptions long enough that they're sufficiently descriptive, so we recommend descriptions between 50–300 characters.
+			https://moz.com/learn/seo/meta-description
+	3] Weed out 404 errors.
+	4] Make your content easily shareable (This benefit was recently confirmed as one of the top two ranking factors in Google’s algorithm.)
+	5] Optimize your images.
+	6] Make your site load faster.
+	7] Include structured markup.
+
+9.10p submitted first ever FCC project ("It's alive! It's alive!") ahaha
+
+
+Unix Basics part 1 (CodeSchool Screencasts)
+	1] Files
+	2] Directories
+	3] Paths
+	4] Permissions
+
+	1.1 Creating files
+	1.2 Listing files
+	1.3 Altering files
+	1.4 Linking files
+
+	ls 		list
+	cp 		copy 		cp <source> <filename you want>
+	mv 		move 		mv <source> <fyw>
+	rm 		remove 		rm <*filenames>
+	echo 	output 		echo ""
+						echo "" > <filename> 	ex: echo "were meant to fly." > startships.txt
+	cat 	print file content
+	ln 		link/hard link 		ln 	<source> <fyw> 		(refers to an index node. Passed by reference.)
+	ln -s 	symbolic link/soft link 			(Passed by value)
+
+	man 	manual 		man <command name>
+
+	2.1 Displaying directory path
+	2.2 Creating directory
+	2.3 Switching into a directory
+	2.4 Current and parent directory
+	2.5 Linking directories
+
+	pwd 	print working directory
+	mkdir 	create 						mkdir <folder name>
+	cd 		change directory
+	cd .. 	parent directory
+	ls -a 	List w/ hidden
+	cd . 	current directory
+	cp -r 	to copy directories/folders 	-r: recursive
+	rm -r 	
+
+	researched
+		rm -rf 	"yes to all"
+		echo
+		cat
+		touch 
+		nano 	(edit right at terminal)
+
+Setting up new project
+	Copy old directory/folder
+	delete unnecessary files (leave .gitignore, HTML & CSS boilerplate, README.md)
+	git init
+	Make new repo @ github then follow instructions
+
+https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean
+	upstream
+   ```
+![First FCC project code submission](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/first%20FCC%20code%20submission%20d20.png "Yey! Celebrate small wins! Get that flywheel move a bit.")
+
+**Thoughts** As I've said yesterday, I'll finish then submit the tribute-page project today and also start the next one. Researching on how to make your website pleasing to the eyes of Google was just nerve wracking. As I visualize myself to learning or shall I say, deep dive on SEO in the future, making not just websites, but also traffic and ultimately sales conversion for my customers or my own sites. I forgot to deploy on Netlify as of today, now that's my initial task on day 21 (wow, I'm 20% on 100daysofcode challenge). I can feel the momentum. I really need to give in with this desire of mine to be a full stack javascript web developer. That I can create and produce useful things. As what I've read on The Magic of Thinking Big (TMoTB) today said that obsession or even just giving in to your desire, then setting goal and resolve will give you energy, and your subconscious mind will help you to gain traction towards that goal, even just one small step at a time. #momentum #LetsGetItOn
+
+**Link(s) to work** 
+1] Netlify domain
+2] same as day 17
+
 <!--
-### Day 19: July 27, Friday
+### Day 20: July 28, Saturday
 
 **Today's Progress**:
 
