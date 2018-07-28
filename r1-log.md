@@ -122,8 +122,15 @@ Continue tribute-page + Study Fundamentals
 - Studied Vertical Align; Learned most values except (top & bottom) depends on the "baseline", not on line-height or the text-box
 - Reviewed writing Git commit conventions/best practices
 
+### R1D20 7/28/18
+Finished first ever FCC (RWD) project & started the next one (build a survery form)
+- Finished tribute-page and submitted the code link to FCC
+- Learned basic/quick ways to make your website gogleable -- SEO
+- Reviewed Unix Basics (files & directories)
+- Started build-a-survey-form (reviewed new project creation via terminal and Git)
+
 <!-- 
-### R1D19 7/27/18
+### R1D20 7/28/18
 Study Fundamentals
 - Fin
 -->
