@@ -129,8 +129,15 @@ Finished first ever FCC (RWD) project & started the next one (build a survery fo
 - Reviewed Unix Basics (files & directories)
 - Started build-a-survey-form (reviewed new project creation via terminal and Git)
 
+### R1D21 7/30/18
+Continue build-a-survey-form
+- Deployed on Netlify https://thysurveyform.netlify.com
+- Done with HTML skeleton
+- Built a high fidelity prototype via creating a Google Form w/ similar contents of the codepen link given
+- Studied HTML Forms: Form, input, label, dropdown, radiobox
+
 <!-- 
-### R1D20 7/28/18
+### R1D21 7/30/18
 Study Fundamentals
 - Fin
 -->
