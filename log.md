@@ -1381,13 +1381,13 @@ radio button
 	<input type="radio">
    ```
 
-
+tribute-page low fidelity wireframe:
 ![tribute-page low fidelity wireframe](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20low%20fidelity%20wireframe.jpg "I forgot to upload this after finishing (somehow). I already submitted the code, but I also need to come back to add responsiveness for smaller devices. One on the right")
 
 
 **Thoughts** I thought I can finish the tests today since they were easy, but I decided to go the hard way of watching/learning the specific element/tag videos first, try with FCC if it's included in the curriculum, then finally implementing to my codebase. I also created a Google Form to create a high fidelity prototype so that I'll just clone this design later after finishing the unit tests. Alright! Way to go! #brick-by-brick #Foundations
 
-
+build-a-survey-form high fidelity prototype screenshot:
 ![build-a-survey-form high fidelity prototype screenshot](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/build-a-survey-form%20high%20fidelity%20prototype%20screenshot.png "Here's what I'm aiming to clone for this project.")
 
 
