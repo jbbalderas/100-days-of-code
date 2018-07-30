@@ -1349,8 +1349,49 @@ https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean
 1] Netlify domain
 2] same as day 17
 
+### Day 21: July 30, Monday
+
+**Today's Progress**:
+
+```1.39p
+	Netlify
+	Skeleton
+
+1.47p deployed at thysurveyform.netlify.com
+
+2.38p built the GForm to clone https://docs.google.com/forms/d/e/1FAIpQLScJYABbBNFZc9KV5DhmlwMgea-IN0QqPb9nEV2XQD5SOyZyUA/viewform
+
+5.38p pushed "Add basic skeleton for the page structure/layout"
+
+Now, what's the plan?
+
+✓rob's TCWD2 -> ~colt's WDBC -> Todd's HtCaW:aHTaCT -> ~(Udacity) Steve's WD -> FCC curriculum 
+
+Form
+	action; method;
+Input
+	type
+Label
+	for 	== 		id
+
+dropdown
+	<select><option></option><option></option></select>
+radio button
+	<input type="radio">
+   ```
+   
+![tribute-page low fidelity wireframe](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20low%20fidelity%20wireframe.jpg "I forgot to upload this after finishing (somehow). I already submitted the code, but I also need to come back to add responsiveness for smaller devices. One on the right")
+
+**Thoughts** I thought I can finish the tests today since they were easy, but I decided to go the hard way of watching/learning the specific element/tag videos first, try with FCC if it's included in the curriculum, then finally implementing to my codebase. I also created a Google Form to create a high fidelity prototype so that I'll just clone this design later after finishing the unit tests. Alright! Way to go! #brick-by-brick #Foundations
+
+![build-a-survey-form high fidelity prototype screenshot](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/build-a-survey-form%20high%20fidelity%20prototype%20screenshot.png "Here's what I'm aiming to clone for this project.")
+
+**Link(s) to work** 
+1] [build a survey form on Netlify](https://thysurveyform.netlify.com)
+2] same as day 17
+
 <!--
-### Day 20: July 28, Saturday
+### Day 21: July 30, Monday
 
 **Today's Progress**:
 
