@@ -1353,7 +1353,8 @@ https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean
 
 **Today's Progress**:
 
-```1.39p
+```
+1.39p
 	Netlify
 	Skeleton
 
@@ -1379,16 +1380,23 @@ dropdown
 radio button
 	<input type="radio">
    ```
-   
+
+
 ![tribute-page low fidelity wireframe](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20low%20fidelity%20wireframe.jpg "I forgot to upload this after finishing (somehow). I already submitted the code, but I also need to come back to add responsiveness for smaller devices. One on the right")
+
 
 **Thoughts** I thought I can finish the tests today since they were easy, but I decided to go the hard way of watching/learning the specific element/tag videos first, try with FCC if it's included in the curriculum, then finally implementing to my codebase. I also created a Google Form to create a high fidelity prototype so that I'll just clone this design later after finishing the unit tests. Alright! Way to go! #brick-by-brick #Foundations
 
+
 ![build-a-survey-form high fidelity prototype screenshot](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/build-a-survey-form%20high%20fidelity%20prototype%20screenshot.png "Here's what I'm aiming to clone for this project.")
 
-**Link(s) to work** 
+
+**Link(s) to work**
+
 1] [build a survey form on Netlify](https://thysurveyform.netlify.com)
+
 2] same as day 17
+
 
 <!--
 ### Day 21: July 30, Monday
