@@ -1349,6 +1349,7 @@ https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean
 1] Netlify domain
 2] same as day 17
 
+
 ### Day 21: July 30, Monday
 
 **Today's Progress**:
@@ -1384,22 +1385,91 @@ radio button
 tribute-page low fidelity wireframe:
 ![tribute-page low fidelity wireframe](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/tribute%20page%20low%20fidelity%20wireframe.jpg "I forgot to upload this after finishing (somehow). I already submitted the code, but I also need to come back to add responsiveness for smaller devices. One on the right")
 
-
 **Thoughts** I thought I can finish the tests today since they were easy, but I decided to go the hard way of watching/learning the specific element/tag videos first, try with FCC if it's included in the curriculum, then finally implementing to my codebase. I also created a Google Form to create a high fidelity prototype so that I'll just clone this design later after finishing the unit tests. Alright! Way to go! #brick-by-brick #Foundations
 
 build-a-survey-form high fidelity prototype screenshot:
 ![build-a-survey-form high fidelity prototype screenshot](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/build-a-survey-form%20high%20fidelity%20prototype%20screenshot.png "Here's what I'm aiming to clone for this project.")
 
-
 **Link(s) to work**
-
 1] [build a survey form on Netlify](https://thysurveyform.netlify.com)
-
 2] same as day 17
 
 
+### Day 22: July 31, Tuesday
+
+**Today's Progress**:
+
+```
+11.26a Continue build-a-survey-form
+	1] Finish Tests
+	2] CSS
+
+Form
+Checkbox
+	<input type="checkbox"> 		<label><input type="checkbox"></label>
+Textarea
+	<textarea ></textarea>
+Fieldset
+	<fieldset> <legend></legend> </fieldset>
+
+1.04p #1 Fininished tests
+
+✓rob's TCWD2 -> ~colt's WDBC -> ~Todd's HtCaW:aHTaCT -> ~(Udacity) Steve's WD -> ✓FCC curriculum 
+
+
+Todds -> Steve -> Colt's exercise
+
+	<input type="range">; <progress>; <meter>
+	id 		=> for CSS targeting
+	name 	=> for back-end purposes
+
+✓rob's TCWD2 -> ~colt's WDBC -> ✓Todd's HtCaW:aHTaCT -> ~(Udacity) Steve's WD -> ✓FCC curriculum	
+   ```
+
+**Thoughts** I have slept 1 hr before scheduled end of the day, this is because of a hurdle a encountered when figuring out how to run GoogleAppEngine and trying to edit files locally. This made me unable to finish the day, making me wake up next day morning already, thus wasn't able to take dinner and my usual evening routine. Whenever I face a same frustrating setback in the future, I plan to first, never take strectching on my bed, if I really need to stretch lying down, I'll stretch on the floor, second, I'll try to greet my dogs or take a walk or take a quick 3 min exercise just to make my body move and turn on that Default Mode Network aka diffused thinking. Btw, I learned this on Learning How to Learn on Coursera, which is my next course to take concurrently with this 100daysofcode, after finishing The Science of Well Being by Yale on same MOOC site. Btw, Dr. Laurie Santos really did a great job on making that course fun, applicable, practical, and eye opening; 100% recommended. #HappinessIsNow #PowerOfNow
+
+**Link(s) to work** same as day 21
+
+
+### Day 23: August 01, Wednesday
+
+**Today's Progress**:
+
+```
+11.54a continue googleAppEngine try
+
+1.33 finally able to make googleAppEngine work on local. Now I can do localhost:8080. huhu
+	now I can continue studying Udacity's Web Dev starter by Steve Huffman
+
+			GET							POST
+	parameters in URL 			parameters in body
+	used for fetching docs		used for updating data
+	max URL length	 			no max length
+	ok to cache 				not ok to cache
+	shouldn't change server 	ok to change the server
+
+	type="password"
+
+	HTML Escape w/ Reddit via C
+
+	"redirection" to 1] share success link, 2] reload the page w/o annoying message
+
+✓rob's TCWD2 -> ~colt's WDBC -> ✓Todd's HtCaW:aHTaCT -> ✓(Udacity) Steve's WD -> ✓FCC curriculum 	
+
+Form Exercise from Colt's WDBC
+	text input; password; email; gender radio btns; bday dropdowns; checkbox 	/
+	validation for fname, lname, email 											
+	pw must be between 5 and 10 characters
+
+   ```
+
+**Thoughts** After studying relevant topics on Udacity's Web Development course, I sensed that I'll not see it again in the meantime. I think this is much more beneficial to be taken concurrently learning with back end development. It's a great learning course though, because Steve (found of Reddit & Hipmunk) is teaching real scenarios that's happening out there on the web. Tomorrow, I'll work on the CSS since I have finished all the planned learning materials regarding HTML Forms which is the focuse of build-a-survey-form project of the FCC. #Grit #CSSWeMeetAgain 
+
+**Link(s) to work** same as day 21
+
+
 <!--
-### Day 21: July 30, Monday
+### Day 23: August 01, Wednesday
 
 **Today's Progress**:
 
@@ -1407,5 +1477,5 @@ build-a-survey-form high fidelity prototype screenshot:
    ```
 
 **Thoughts**
-**Link(s) to work** [link name](url)
+**Link(s) to work** same as day 21
    -->
