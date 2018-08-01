@@ -136,8 +136,19 @@ Continue build-a-survey-form
 - Built a high fidelity prototype via creating a Google Form w/ similar contents of the codepen link given
 - Studied HTML Forms: Form, input, label, dropdown, radiobox
 
+### R1D22 7/31/18
+Continue build-a-survey-form + Study Fundamentals
+- Finished all unit tests for build-a-survey-form
+- Continued studying HTML Forms
+
+### R1D23 8/01/18
+Study Fundamentals
+- Was able to make googleAppEngine work locally
+- Finished relevant topics on Udacity's Web Development course
+- Finished 'form exercise' on Colt's WDBC
+
 <!-- 
-### R1D21 7/30/18
+### R1D23 8/01/18
 Study Fundamentals
 - Fin
 -->
