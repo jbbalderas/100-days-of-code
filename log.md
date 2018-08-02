@@ -1468,8 +1468,33 @@ Form Exercise from Colt's WDBC
 **Link(s) to work** same as day 21
 
 
+### Day 24: August 02, Thursday
+
+**Today's Progress**:
+
+```
+11.36a finish build-a-survey-form
+-CSS
+
+git mylog
+	* 8a194a5 2018-08-02 | Add initial styling [Justin Balderas]
+	* f2dae3e 2018-08-02 | Add post-initial styling [Justin Balderas]
+	* 0819909 2018-08-02 | Add styling for first three required fields [Justin Balderas]
+	* 4613afa 2018-08-02 | Add input on focus styling & select tag size [Justin Balderas]
+	* 0b82e42 2018-08-02 | Add finished styling to dropdown/select tags [Justin Balderas]
+	* daf35d5 2018-08-02 | Add styling on radio btns and checkboxes labels [Justin Balderas]
+	* 2f6a51a 2018-08-02 | Fix left over display issues on 'others:' option [Justin Balderas]
+	* 1c22efb 2018-08-02 | Add custom radio button styling [Justin Balderas]
+	* 905a185 2018-08-02 | Add custom checkbox styling [Justin Balderas]
+   ```
+
+**Thoughts** Almost finished styling my 'build-a-survey-form' today. Almost! I thought I can finish it today. I guess as I'm writing this, this is the second time it happened that I thought I could finish it on the same day, but finishing just 80-90%. I guess this 'time inconsistency' will develop over time as I gain more experience and finally be able to estimate things in foresight regarding Front End dev. Overall, I'm grateful for my progress today. #WIP #onProject #physically #mentally #emotionally #spiritually #socially #onLife
+
+**Link(s) to work** same as day 21
+
+
 <!--
-### Day 23: August 01, Wednesday
+### Day 24: August 02, Thursday
 
 **Today's Progress**:
 
