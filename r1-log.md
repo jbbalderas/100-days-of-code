@@ -147,8 +147,12 @@ Study Fundamentals
 - Finished relevant topics on Udacity's Web Development course
 - Finished 'form exercise' on Colt's WDBC
 
+### R1D24 8/02/18
+Continue build-a-survey-form
+- Almost finished styling (from initial styling to custom radio btns & checkbox) 
+   - 85% progress
 <!-- 
-### R1D23 8/01/18
+### R1D24 8/02/18
 Study Fundamentals
 - Fin
 -->
