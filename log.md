@@ -1493,8 +1493,29 @@ git mylog
 **Link(s) to work** same as day 21
 
 
+
+### Day 25: August 03, Friday
+
+**Today's Progress**:
+[build a survey form on Netlify](https://thysurveyform.netlify.com)
+```
+9.32p 
+
+git mylog
+	* 6d47e55 2018-08-03 | Adjust width of 'others:' input, & textarea [Justin Balderas]
+	* 4840e13 2018-08-03 | Add submit button styling, spacing for radio and checkbox [Justin Balderas]
+	* 8dae49f 2018-08-03 | Add final stylings (HEAD -> master, origin/master) [Justin Balderas]
+   ```
+![HiFi Prototype comparison](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/build%20a%20survey%20form%20finished.gif "HiFi Prototype side-by-side. Ahaha")
+
+**Thoughts**
+![Submitted link to FCC](https://github.com/jbbalderas/100-days-of-code/blob/master/intl/submit%20build%20a%20survey%20form.gif "Thank you random submit congratulatory! :D")
+#AnotherMemoryChunkFinished #LearningAsASuperpower
+
+**Link(s) to work** same as day 17
+
 <!--
-### Day 24: August 02, Thursday
+### Day 25: August 03, Friday
 
 **Today's Progress**:
 
@@ -1502,5 +1523,5 @@ git mylog
    ```
 
 **Thoughts**
-**Link(s) to work** same as day 21
+**Link(s) to work** same as day 17
    -->
