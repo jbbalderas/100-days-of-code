@@ -151,8 +151,14 @@ Study Fundamentals
 Continue build-a-survey-form
 - Almost finished styling (from initial styling to custom radio btns & checkbox) 
    - 85% progress
+   
+### R1D25 8/03/18
+Finished build-a-survey-form
+- Within just one hour, 85% progress, now done.
+
+
 <!-- 
-### R1D24 8/02/18
+### R1D25 8/03/18
 Study Fundamentals
 - Fin
 -->
