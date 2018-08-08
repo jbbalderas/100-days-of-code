@@ -156,6 +156,12 @@ Continue build-a-survey-form
 Finished build-a-survey-form
 - Within just one hour, 85% progress, now done.
 
+### R1D26 8/08/18
+Big Picture review
+- Looked at conceptual chunks or learning goals of remaining three projects on FCC RWD certification
+- Joined FCC.Manila FB group
+- Followed some remarkable Filipino Devs on twitter and AATB (add all the bugs) FB page: a live coding page by sir Rem Lampa.
+- Updated FCC profile
 
 <!-- 
 ### R1D25 8/03/18
