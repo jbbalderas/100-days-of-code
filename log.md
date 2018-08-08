@@ -1514,8 +1514,27 @@ git mylog
 
 **Link(s) to work** same as day 17
 
+
+### Day 26: August 08, Wednesday
+
+**Today's Progress**:
+
+```
+Big Picture review
+- Looked at conceptual chunks or learning goals of remaining three projects on FCC RWD certification
+- Joined FCC.Manila FB group
+- Followed some remarkable Filipino Devs on twitter and AATB (add all the bugs) FB page: a live coding page by sir Rem Lampa.
+- Updated FCC profile
+   ```
+
+**Thoughts** Just went back from four day hiatus/break since it was spent for: 1] 1st sem enrollment on the university, working on residency status (not taking any other subjects but still enrolled), 2] rest, recover, and treatment of hyperextended knee. Now I'm back, and trying to form new chunks with regards to front end web development. I am also concurrently taking 1] learning how to learn on Coursera, and 2] AP Microeconomics on EdX, and soon 3] Decision Making in a Complex and Uncertain World on FutureLearn which will start on Sept. 10. #Learning #IncreaseDopamineNaturally #GoNaturalAvoidInstantGratificationsAvoidInorganics
+
+**Link(s) to work** same as day 17
+
+
+
 <!--
-### Day 25: August 03, Friday
+### Day 26: August 08, Wednesday
 
 **Today's Progress**:
 
